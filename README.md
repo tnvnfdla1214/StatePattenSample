@@ -365,3 +365,7 @@ class State4Activity : StateActivity() {
 #### 사용하기 좋은 곳
 + UI 상태를 로딩과 오류와 나누어서 사용하는 경우
 + Base에서 로딩과 오류를 일반적으로 처리하고 싶은 경우
+
+### 읽어보기
+https://lordraydenmk.github.io/2021/modelling-ui-state/
+https://medium.com/@laco2951/android-ui-state-modeling-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C-7b6232543f25
