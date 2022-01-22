@@ -16,10 +16,13 @@ UI 모델링을 처리하는 방법은 정말 많지만 일반적으로 사용�
 
 ## 요구 사항
 “유저 정보를 받아와 2초정도 후에 이름과 나이를 화면에 그려주세요. 오류가 발생하면 따로 표시 해 주세요”
+
 <div align="center">
   <img src = "https://user-images.githubusercontent.com/48902047/150623803-35d945f6-8e1d-476c-bff6-92007dbbf3e1.gif" width="30%" height="30%">
 </div>
+
 ## State 1
+
 여러개의 State를 만들고 Loading, Error 별도로 만들기
  ```Kotlin
 @HiltViewModel
